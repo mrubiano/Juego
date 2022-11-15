@@ -1,4 +1,4 @@
-# ARCHIVO: [mastermind.py]
+#universidad de san buenaventura
 
 # modulo que va a permitir elegir numeros aleatoriamente
 import random
